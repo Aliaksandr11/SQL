@@ -39,6 +39,7 @@
    CREATE TABLE employee_salary (id serial primary key,
    employee_id int not null unique,
    salary_id int not null);
+
 5. Создать таблицу roles
    - id. Serial  primary key,
    - role_name. int, not null, unique
