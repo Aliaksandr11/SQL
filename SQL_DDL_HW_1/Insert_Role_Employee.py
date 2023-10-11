@@ -1,3 +1,4 @@
+# Наполнить таблицу roles_employee 40 строками
 import psycopg2
 import random
 
